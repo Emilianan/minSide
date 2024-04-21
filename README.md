@@ -1,0 +1,2 @@
+# minSide
+ minSide
